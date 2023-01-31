@@ -23,6 +23,8 @@ li{
 
 .liheader:hover {
   border-bottom: 1px solid white;
+  transform: scale(1.1);
+    transition: ease-in-out 0.5s
 }
 
 .App {
