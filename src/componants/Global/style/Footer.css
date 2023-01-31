@@ -28,6 +28,7 @@ footer{
 }
 
 .footer-li:hover{
+    opacity: 0.8;
     transform: scale(1.1);
     transition: ease-in-out 0.5s
 }
