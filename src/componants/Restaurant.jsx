@@ -1,7 +1,11 @@
-import React, { useContext, useState } from 'react'
+import React from 'react'
+import Footer from './Footer'
 
 export default function Restaurant(){
-
-console.log("test");
+    return (
+        <div className="App">
+            <Footer />
+        </div>
+    );
 
 }
