@@ -1,7 +1,9 @@
+import './style/Header.css'
+
 export default function header () {
     return(
     <header className="App">
-    <h1>La table de Chantal</h1>
+    <h1 className='h1'>La table de Chantal</h1>
 
     <ul className="navbar">
       <a className="lien" href="#"><li>Acceuil</li></a>
