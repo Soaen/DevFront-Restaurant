@@ -1,70 +1,153 @@
-# Getting Started with Create React App
+# DevFront-Restaurant
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<a name="readme-top"></a>
+<!--
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
+-->
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/Soaen/DevFront-Restaurant">
+    La table de Chantal
+  </a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h3 align="center">Restaurant</h3>
 
-### `npm run build`
+  <p align="center">
+    "La table de Chantal" nous a contacté afin de réaliser le site internet de leur restaurant.
+    <br />
+    <a href="https://github.com/Soaen/DevFront-Restaurant"><strong>Explorer la documentation »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/Soaen/DevFront-Restaurant">Voir une Démo</a>
+    ·
+    <a href="https://github.com/Soaen/DevFront-Restaurant/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Soaen/DevFront-Restaurant/issues">Request Feature</a>
+  </p>
+</div>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#a-propos-du-projet">A propos du projet</a>
+    </li>
+    <li><a href="#installation">Installation</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributions">Contributions</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<!-- ABOUT THE PROJECT -->
+## A propos du projet
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+"La table de Chantal" nous a contacté afin de réaliser le site internet de leur restaurant.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+### Langages Utilisés
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* [![HTML5][html.com]][html-url]
+* [![CSS3][css.com]][css-url]
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+### Installation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+1. Clonez le repo
+   ```sh
+   git clone https://github.com/Soaen/DevFront-Restaurant.git
+   ```
 
-### Analyzing the Bundle Size
+<p align="right">(<a href="#readme-top">Retourner en haut</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<!-- ROADMAP -->
+## Roadmap
 
-### Advanced Configuration
+- [X] Page Accueil
+- [X] Page Détail
+- [X] Page Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<p align="right">(<a href="#readme-top">Retourner en haut</a>)</p>
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+<!-- CONTRIBUTING -->
+## Contributions
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Les contributions sont ce qui fait de la communauté open source un endroit extraordinaire pour apprendre, s'inspirer et créer. Toutes vos contributions sont **grandement appréciées**.
+
+Si vous avez une suggestion qui permettrait d'améliorer cette version, veuillez forker le dépôt et créer une pull request.
+
+Vous pouvez aussi simplement ouvrir un problème avec le tag "enhancement".
+
+N'oubliez pas de donner une étoile au projet ! Merci encore !
+
+
+1. Forker le Projet
+2. Créez votre Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit vos changements (`git commit -m 'Add some AmazingFeature'`)
+4. Pushez vers votre Branch (`git push origin feature/AmazingFeature`)
+5. Ouvrez une Pull Request
+
+<p align="right">(<a href="#readme-top">Retourner en haut</a>)</p>
+
+<!-- CONTACT -->
+## Contact
+
+Sylvain - sylvain.vansteenkiste59@gmail.com
+Florian - floriangreco@hotmail.com
+
+Lien du projet: [https://github.com/Soaen/DevFront-Restaurant](https://github.com/Soaen/DevFront-Restaurant)
+
+<p align="right">(<a href="#readme-top">Retourner en haut</a>)</p>
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/Soaen/DevFront-Restaurant.svg?style=for-the-badge
+[contributors-url]: https://github.com/Soaen/DevFront-Restaurant/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Soaen/DevFront-Restaurant.svg?style=for-the-badge
+[forks-url]: https://github.com/Soaen/DevFront-Restaurant/network/members
+[stars-shield]: https://img.shields.io/github/stars/Soaen/DevFront-Restaurant.svg?style=for-the-badge
+[stars-url]: https://github.com/Soaen/DevFront-Restaurant/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Soaen/DevFront-Restaurant.svg?style=for-the-badge
+[issues-url]: https://github.com/Soaen/DevFront-Restaurant/issues
+[product-screenshot]: images/screenshot.png
+[html.com]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[html-url]: https://html.com/
+[css.com]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[css-url]: https://www.w3.org/Style/CSS/
+[sass.com]: https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white
+[sass-url]: https://sass-lang.com/
