@@ -1,14 +1,14 @@
-import React, { useContext, useState } from 'react'
+import React from 'react'
 import Header from "./Global/Header"
 import Footer from "./Global/Footer"
-import Plats from './Pages/Plats/Plats'
+import Home from './Pages/Home/Home'
 
 export default function Restaurant(){
 
     return(
         <div>
             <Header/>
-            <Plats />
+            <Home />
             <Footer/>
         </div>
     )
