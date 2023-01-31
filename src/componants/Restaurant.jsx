@@ -1,13 +1,15 @@
 import React, { useContext, useState } from 'react'
 import Header from "./Global/Header"
 import Footer from "./Global/Footer"
-import Home from "./Pages/Home/Home"
+import Plats from './Pages/Plats/Plats'
+
 export default function Restaurant(){
-return(
-    <div>
-        <Header/>
-        <Home/>
-        <Footer/>
-    </div>
-)   
+
+    return(
+        <div>
+            <Header/>
+            <Plats />
+            <Footer/>
+        </div>
+    )
 }
