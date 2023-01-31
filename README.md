@@ -126,6 +126,7 @@ N'oubliez pas de donner une étoile au projet ! Merci encore !
 ## Contact
 
 Sylvain - sylvain.vansteenkiste59@gmail.com
+
 Florian - floriangreco@hotmail.com
 
 Lien du projet: [https://github.com/Soaen/DevFront-Restaurant](https://github.com/Soaen/DevFront-Restaurant)
