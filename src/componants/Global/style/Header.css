@@ -21,7 +21,7 @@ li{
   margin-left: 20px;
 }
 
-li:hover {
+.liheader:hover {
   border-bottom: 1px solid white;
 }
 
