@@ -1,7 +1,7 @@
 import { v4 as uuidv4 } from "uuid";
 
 
-// 1 = Entrées, 2 = Plats, 3 = Dessert, 4 = Boisson
+// 1 = Entrées, 2 = Plats, 3 = Dessert, 4 = Soft, 5: Alcool
 
 
 const platsData = [
@@ -99,7 +99,7 @@ const platsData = [
     },
     {
         id: uuidv4(),
-        categorie: 4,
+        categorie: 5,
         image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Beer_mug_transparent.png/1200px-Beer_mug_transparent.png',
         prix: 15.99,
         name: 'Bière blonde'
@@ -147,7 +147,7 @@ const platsData = [
     },
     {
         id: uuidv4(),
-        categorie: 4,
+        categorie: 5,
         image: 'https://www.ikea.com/fr/fr/images/products/storsint-verre-a-vin-rouge-verre-transparent__0640894_pe700139_s5.jpg',
         prix: 17.99,
         name: 'Vin Rouge'
@@ -159,6 +159,22 @@ const platsData = [
         image: 'https://img.circulaire-en-ligne.ca/wp-content/uploads/boeuf-africain.jpg',
         prix: 18.99,
         name: 'Boeuf'
+
+    },
+    {
+        id: uuidv4(),
+        categorie: 5,
+        image: 'https://rucherdumoulin.com/43327-large_default/biere-brune-33cl-jolicoeur.jpg',
+        prix: 8.99,
+        name: 'Bière Brune'
+
+    },
+    {
+        id: uuidv4(),
+        categorie: 4,
+        image: 'https://media.carrefour.fr/medias/d560c0c3ff49348c95dc3dd41016f547/p_540x540/05060639127108-h1n1-s01.jpg',
+        prix: 8.99,
+        name: 'Monster Punch'
 
     },
     
