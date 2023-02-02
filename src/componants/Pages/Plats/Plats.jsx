@@ -7,6 +7,7 @@ import Header from '../../Global/Header';
 import Footer from '../../Global/Footer';
 
 export default function Plats() {
+    document.title = "La table de Chantal - Carte des Plats"
     return (
         <div>
         <Header/>
