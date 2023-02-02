@@ -4,7 +4,7 @@ import './style/Header.css'
 export default function header () {
     return(
     <header className="App">
-    <h1 className='h1'>La table de Chantal</h1>
+    <Link className="lien" to="/"><h1 className='h1 liheader'>La table de Chantal</h1></Link>
 
     <ul className="navbar">
       <Link className="lien" to="/"><li className='liheader'>Accueil</li></Link>
