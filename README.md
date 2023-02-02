@@ -78,6 +78,8 @@
 
 * [![HTML5][html.com]][html-url]
 * [![CSS3][css.com]][css-url]
+* [![JS][js.com]][js-url]
+* [![React][react.com]][react-url]
 
 
 ### Installation
@@ -153,3 +155,7 @@ Lien du projet: [https://github.com/Soaen/DevFront-Restaurant](https://github.co
 [css-url]: https://www.w3.org/Style/CSS/
 [sass.com]: https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white
 [sass-url]: https://sass-lang.com/
+[react.com]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[react-url]: https://fr.reactjs.org/
+[js.com]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[js-url]: https://developer.mozilla.org/fr/docs/Web/JavaScript
