@@ -15,7 +15,7 @@ export default function Drinks() {
 
                 <SoftShow />
             </li>
-
+            <hr size="100%" />
             <li className='li-plat'>
                 <h2 className='h2-plat'>Alcool</h2>
                 <AlcoolShow />
