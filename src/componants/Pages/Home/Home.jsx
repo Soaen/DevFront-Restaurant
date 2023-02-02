@@ -3,6 +3,7 @@ import Slider from "./style/componants/Slider"
 
 
 export default function Home() {
+  document.title = "La table de Chantal - Accueil"
   return (
     <div>
       <figure>
