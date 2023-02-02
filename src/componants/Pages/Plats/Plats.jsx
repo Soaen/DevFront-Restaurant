@@ -14,10 +14,9 @@ export default function Plats() {
         <div className='list-plat-container'>
             <li className='li-plat'>
                 <h2 className='h2-plat'>Entrées</h2>
-
                 <Entrees />
             </li>
-            <hr size="100%" />
+            <hr size="100%"/>
             <li className='li-plat'>
                 <h2 className='h2-plat'>Plats</h2>
                 <PlatsShow />
