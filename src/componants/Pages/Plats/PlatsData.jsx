@@ -10,7 +10,7 @@ const platsData = [
         categorie: 1,
         image: 'https://www.finedininglovers.fr/sites/g/files/xknfdk1291/files/styles/recipes_1200_1200_fallback/public/2020-05/ricette_antipasti.jpg?itok=lhnZF46z',
         prix: 6.99,
-        name: 'Bille'
+        name: 'Arancini'
     },
     {
         id: uuidv4(),
@@ -85,8 +85,8 @@ const platsData = [
         id: uuidv4(),
         categorie: 3,
         image: 'https://fac.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2FFAC.2Fvar.2Ffemmeactuelle.2Fstorage.2Fimages.2Fcuisine.2Frecettes-de-cuisine.2Frecettes-desserts-preparer-la-veille-a-l-avance-47712.2F14875987-1-fre-FR.2Fdesserts-a-preparer-la-veille-nos-recettes-pratiques.2Ejpg/750x562/quality/80/crop-from/center/cr/wqkgTW9udCBCbGFuYyAvIEZlbW1lIEFjdHVlbGxl/desserts-a-preparer-la-veille-nos-recettes-pratiques.jpeg',
-        prix: 12.99,
-        name: 'Champi'
+        prix: 6.99,
+        name: 'Flan'
 
     },
     {
@@ -117,7 +117,7 @@ const platsData = [
         id: uuidv4(),
         categorie: 3,
         image: 'http://les2quiches.com/wp-content/uploads/2021/07/cranachan-traditionnel.jpg',
-        prix: 18.99,
+        prix: 8.99,
         name: 'Cranachan'
 
     },
@@ -141,7 +141,7 @@ const platsData = [
         id: uuidv4(),
         categorie: 3,
         image: 'https://img-3.journaldesfemmes.fr/kYaZ5ShrJYYdporl4W-V2lA-qu4=/1500x/smart/e2384d1c32d444528e8ec0881c4d632d/ccmcms-jdf/27162578.jpg',
-        prix: 15.99,
+        prix: 7.99,
         name: 'Tiramisu'
 
     },

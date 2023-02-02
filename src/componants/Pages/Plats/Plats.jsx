@@ -7,6 +7,7 @@ import Header from '../../Global/Header';
 import Footer from '../../Global/Footer';
 
 export default function Plats() {
+    document.title = "La table de Chantal - Carte des Plats"
     return (
         <div>
         <Header/>
@@ -16,13 +17,12 @@ export default function Plats() {
 
                 <Entrees />
             </li>
-
+            <hr size="100%" />
             <li className='li-plat'>
                 <h2 className='h2-plat'>Plats</h2>
                 <PlatsShow />
             </li>
-            
-
+            <hr size="100%"/>
             <li className='li-plat'>
                 <h2 className='h2-plat'>Desserts</h2>
                 <DessertsShow />

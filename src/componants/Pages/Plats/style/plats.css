@@ -1,5 +1,51 @@
 .li-plat{
     list-style-type: none;
+    height: 100%;
+}
+
+hr{
+    margin-left: 15px;
+}
+
+.list-img{
+    width: 300px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 2px 2px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.list-li{
+    margin: 10px;
+    margin-top: 30px;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 15px;
+    
+}
+
+.list-plat-container{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+
+.list-para{
+    text-align: center;
+    font-weight: bold;
+}
+
+.h2-plat{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.list-prix{
+    text-align: center;
+    font-style: italic;
+}
+
+
+
+.li-plat{
+    list-style-type: none;
 }
 
 .list-img{
