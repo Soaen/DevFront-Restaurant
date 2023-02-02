@@ -95,8 +95,8 @@
 ## Roadmap
 
 - [X] Page Accueil
-- [ ] Page Carte des plats
-- [ ] Page Carte des boissons
+- [X] Page Carte des plats
+- [X] Page Carte des boissons
 - [ ] Page Contact
 
 <p align="right">(<a href="#readme-top">Retourner en haut</a>)</p>
