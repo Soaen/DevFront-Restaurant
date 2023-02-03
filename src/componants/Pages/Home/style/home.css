@@ -22,9 +22,8 @@
 }
 
 .para {
-    width: 900px;
-    height: 500px;
-    margin-top: 17%;
+    width: 80%;
+    margin-top: 10%;
     margin-left: 10%;
     font-size: 20px;
     text-align: justify;
@@ -39,29 +38,11 @@
     width: 600px;
     height: 600px;
     margin-top:7%;
-    margin-left: 62%;
 border-radius: 50%;
 }
 
 .h3Home{
-    margin-left: 67%;
-    margin-top:10%;
-    position: absolute;
+    margin-top:18%;
     font-size: 35px;
-}
-
-.para2 {
-    position: absolute;
-    width: 900px;
-    margin-left: 5%;
-    font-size: 20px;
-     top: 210%;
-     text-align: justify;
-}
-
-.h3Home2{
-    position: absolute;
-    font-size: 35px;
-    top:198%;
-    margin-left: 22%;
+    text-align: center;
 }
