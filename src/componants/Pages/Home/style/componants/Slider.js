@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import './Slider.css'
-import BtnSlider from './BtnSlider'
+// import BtnSlider from './BtnSlider'
 
 export default function Slider(){
 
@@ -57,9 +57,9 @@ export default function Slider(){
         }
     }
 
-    const moveDot = index => {
-        setSlideIndex(index)
-    }
+    // const moveDot = index => {
+    //     setSlideIndex(index)
+    // }
 
 (function(){
     setTimeout(() => {
