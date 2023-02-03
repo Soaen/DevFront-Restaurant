@@ -16,14 +16,14 @@ export default function Drinks() {
           <label className="LabelContact1" htmlFor="">
             nom complet :
           </label>
-          <input className="ForContact1" type="text" placeholder="Votre nom" />
+          <input className="ForContact1 color" type="text" placeholder="Votre nom" />
           </div>
           <div className="test2">
           <label className="LabelContact2" htmlFor="">
             Votre e-mail :
           </label>
           <input
-            className="ForContact2"
+            className="ForContact2 color"
             type="e-mail"
             placeholder="Votre e-mail"
           />
@@ -33,13 +33,13 @@ export default function Drinks() {
           <label className="LabelContact3" htmlFor="">
             Sujet :
           </label>
-          <input className="ForContact3" type="text" placeholder="Sujet" />
+          <input className="ForContact3 color" type="text" placeholder="Sujet" />
 
           <label className="LabelContact4" htmlFor="">
             Votre message :
           </label>
           <input
-            className="ForContact4"
+            className="ForContact4 color"
             type="text"
             placeholder="Votre message"
           />
