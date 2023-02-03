@@ -13,7 +13,6 @@ export default function Slider(){
   
   
     function SliderKey(event){
-  
   switch(event.code) 
   {
       case RIGHT_ARROW_KEY:
@@ -61,6 +60,12 @@ export default function Slider(){
     const moveDot = index => {
         setSlideIndex(index)
     }
+
+(function(){
+    setTimeout(() => {
+        nextSlide()
+       }, 4000)
+})();
 
     return (
         <div className='container-slider'>
