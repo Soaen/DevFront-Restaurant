@@ -81,7 +81,7 @@ export default function Slider(){
                 )
             })}
 
-            <BtnSlider moveSlide={nextSlide} direction={"next"}/>
+            {/* <BtnSlider moveSlide={nextSlide} direction={"next"}/>
             <BtnSlider moveSlide={prevSlide} direction={"prev"}/>
 
 
@@ -93,7 +93,7 @@ export default function Slider(){
 
                     </div>
                 ))}
-            </div>
+            </div> */}
         </div>
     )
 }
